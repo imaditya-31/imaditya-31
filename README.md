@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Aditya%20Vishwakarma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 ![logo](https://github.com/imaditya-31/imaditya-31/blob/main/header1.png)
 
 # 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=👨🏻‍💻+Flutter+Developer+%7C+Cross-Platform+Expert;🚀+1%2B+Years+of+Hands-on+Experience;🔥+Building+Scalable+%26+High-Performance+Apps;🎨+Passionate+about+UI%2FUX+%26+Clean+Code;🤝+Collaborating+on+AI%2C+Automation+%26+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=👨🏻‍💻+Flutter+Developer+%7C+Cross-Platform+Expert;🚀+1%2B+Years+Hands-on+Experience;🔥+Building+Scalable+%26+High-Performance+Apps;🎨+UI%2FUX+%26+Clean+Code+Advocate;🤝+Exploring+AI%2C+Automation+%26+Innovation" alt="Typing SVG" />
 </p>
 
 ---
@@ -60,3 +64,11 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/imaditya-31/imaditya-31/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
+</p>
