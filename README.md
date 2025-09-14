@@ -63,10 +63,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/imaditya-31/imaditya-31/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
 </p>
